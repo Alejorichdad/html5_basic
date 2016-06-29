@@ -1,0 +1,20 @@
+/** tipo de selector {
+	propiedad: valor;
+	propuedad2: valor;
+}*//*
+ selector universas*/
+*{
+	border: 1px solid red;
+	margin: 10px;
+}
+/*selector de etiqueta*/
+header {
+	background: blue;
+} 
+ 
+section{
+	background: purple;
+}
+
+/*selector desendente*/
+
