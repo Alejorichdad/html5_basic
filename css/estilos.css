@@ -17,4 +17,16 @@ section{
 }
 
 /*selector desendente*/
-
+/*article h3 {
+	color: green;
+*/
+/*selectores de clase*/
+.title_a {
+	color: yellow;
+}
+.title_b {
+	color: salmon;
+}
+.title_c {
+	color: peru;
+}
